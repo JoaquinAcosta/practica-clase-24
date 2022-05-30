@@ -1,3 +1,3 @@
 # PRÁCTICA CLASE N°24
 ## Joaquín Acosta
-Mis peliculas favoritas.
+Contiene mis peliculas y series favoritas. Además de los nombres de mis mascotas.
